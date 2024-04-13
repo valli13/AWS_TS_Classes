@@ -2,10 +2,10 @@
 # DATA MESH:
 
 The four principles of data mesh define a new approach to data architecture comprised of domain-driven data ownership, data as a product, a self-serve data platform, and federated computational governance.
--Domain-oriented decentralization: Data ownership is decentralized to business domains, empowering teams to manage their data infrastructure independently for greater agility and accountability.
--Data as a product: Treating data as a product encourages teams to focus on quality and usability, ensuring that data meets the specific needs of consumers like any other product.
--Self-serve data infrastructure: Domain teams have autonomy over their data infrastructure, enabling faster innovation and iteration without relying on centralized resources.
--Federated data governance: Governance processes are decentralized to each domain, ensuring compliance and security while allowing flexibility to tailor governance to specific needs.
+- Domain-oriented decentralization: Data ownership is decentralized to business domains, empowering teams to manage their data infrastructure independently for greater agility and accountability.
+- Data as a product: Treating data as a product encourages teams to focus on quality and usability, ensuring that data meets the specific needs of consumers like any other product.
+- Self-serve data infrastructure: Domain teams have autonomy over their data infrastructure, enabling faster innovation and iteration without relying on centralized resources.
+- Federated data governance: Governance processes are decentralized to each domain, ensuring compliance and security while allowing flexibility to tailor governance to specific needs.
 
 ## BENEFITS:
 
@@ -20,6 +20,6 @@ Data Mesh allows organizations to scale their data infrastructure more effective
 
 Some real-life examples of companies successfully implementing this approach:
 
--ING: This Dutch multinational banking and financial services corporation has been embracing a decentralized, domain-oriented approach to their data management.
--Zalando: This e-commerce company implemented a domain-driven data platform that enabled domain teams to develop, test, and deploy their data products independently.
--Intuit: Introduced a domain-oriented team structure to manage their data operations, enabling independent product development teams to own and manage their own data platforms.
+- ING: This Dutch multinational banking and financial services corporation has been embracing a decentralized, domain-oriented approach to their data management.
+- Zalando: This e-commerce company implemented a domain-driven data platform that enabled domain teams to develop, test, and deploy their data products independently.
+- Intuit: Introduced a domain-oriented team structure to manage their data operations, enabling independent product development teams to own and manage their own data platforms.
