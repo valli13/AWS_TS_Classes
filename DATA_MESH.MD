@@ -13,10 +13,10 @@ Data Mesh allows organizations to scale their data infrastructure more effective
 
 ## CHALLENGES:
 
--Requires a robust change management strategy : To help manage the risks of the project, a thorough, concrete, and realistic change management strategy must be developed before deploying data mesh. 
--Integration with existing systems: Integrating Data Mesh with existing legacy systems and data architectures can be challenging. 
--Technical complexity: Decentralizing data infrastructure and adopting a microservices architecture can introduce technical complexity, especially around data integration, interoperability, and governance.
--Skills and expertise: Data Mesh requires domain teams to have the necessary skills and expertise to manage their own data infrastructure and products.
+- Requires a robust change management strategy : To help manage the risks of the project, a thorough, concrete, and realistic change management strategy must be developed before deploying data mesh. 
+- Integration with existing systems: Integrating Data Mesh with existing legacy systems and data architectures can be challenging. 
+- Technical complexity: Decentralizing data infrastructure and adopting a microservices architecture can introduce technical complexity, especially around data integration, interoperability, and governance.
+- Skills and expertise: Data Mesh requires domain teams to have the necessary skills and expertise to manage their own data infrastructure and products.
 
 Some real-life examples of companies successfully implementing this approach:
 
